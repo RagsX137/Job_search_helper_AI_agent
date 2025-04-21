@@ -1,0 +1,5 @@
+.env
+__pycache__
+resume.txt
+venv
+IMPORTANT.txt

@@ -1,0 +1,89 @@
+
+About the job
+
+About us
+
+Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines broad insurance coverage with a digital risk assessment and continuous security monitoring to help organizations protect themselves in today’s hyper-connected world.
+
+Opportunities to make an impact with bold thinking are real - and happening daily.
+ About the role
+
+We are looking for a Senior Machine Learning Scientist to join our team and help us build out our long term AI strategy. You will be integral in creating innovative machine learning models and refining existing ones to drive the future of our AI initiatives. You will be working closely with a team of ML scientists and engineers to design and implement cutting-edge solutions that address our unique business challenges. You'll have the opportunity to work on complex problems in a highly innovative environment, collaborate with cross-functional teams and contribute to the design, development, and deployment of robust and scalable AI solutions.. Your work will directly impact the growth and vision of Coalition, as you help us transform raw data into unique ML applications, pushing the boundaries of AI technology.
+
+Responsibilities
+
+
+    Drive and execute AI projects/products end-to-end: from ideation, analysis, prototyping, development, metrics, and monitoring.
+
+    Design and implement ML pipelines for data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation, enabling rapid experimentation and iteration.
+
+    Survey and incorporate recent advances in AI/ML research into our set of core capabilities to drive the future of decisioning at Coalition
+
+    Thoughtfully communicate your work and experience in applied machine learning through internal collaborations and mentorship opportunities.
+
+    Contribute and grow the culture of data excellence on our team by bringing mature empathy, best practices, and processes to our organization.
+
+
+Skills and Qualifications
+
+
+    Ph.D. or MS degree in a quantitative or computational field 
+
+    7+ years of proven track record of technical full-time work experience leading work to develop and deploy machine learning and data-based solutions in production
+
+    Proficiency with NLP, particularly broad experience delivering end-to-end, high-quality LLM and RAG solutions with measurable impact
+
+    Practical and extensive experience in supervised and unsupervised machine learning methods
+
+    Expertise in statistical analysis methods, most notably regression analysis, statistical inference, and forecasting
+
+    Proficiency in Python and object-oriented programming
+
+    Effective in ambiguous problem spaces; ability to own and drive projects with minimal oversight and process 
+
+    Exceptional written and oral communication with technical and non-technical audiences
+
+    Comfortable in fast-paced startup environment
+
+
+Perks
+
+
+    100% medical, dental, and vision coverage
+
+    Flexible PTO
+
+    Annual home office stipend and WeWork access
+
+    Mental & physical health wellness programs like Headspace, Lumino, and more!
+
+    Competitive compensation and opportunity for advancement
+
+ 
+Why Coalition? 
+
+We’re a remote-first, mission-driven team committed to building a more inclusive culture with people of all different backgrounds. We trust our team members to take responsibility, share ownership, and put in the work to help us in our pursuit to solve digital risk.
+
+Coalition’s exceptional growth stems from its ability to address real-world problems for organizations of all sizes and remain true to our founding values of character, humility, responsibility, purpose, authenticity, and inclusion. 
+
+We’re always looking for collaborative, inquisitive individuals to join #OurCoalition.
+
+Visit our Newsroom > 
+
+Privacy Notice
+
+Coalition is committed to protecting your privacy and handling your personal information responsibly. We collect, use, and store personal information as necessary for the recruitment process and in compliance with applicable privacy laws and regulations in all regions where we operate. We want you to understand what personal information we collect, how we use it, and your rights regarding access, correction, and deletion of your data where applicable. Information submitted, collected, and processed as part of your application is subject to Coalition's Privacy Policy. For further details, please review our full Privacy Policy or contact us with any questions regarding how your information is handled.
+
+Our Privacy Policy > 
+
+Anti-Discrimination Notice
+
+Coalition is proud to be an Equal Opportunity employer. Our policy is to provide equal employment opportunities to all individuals, without discrimination or harassment on the basis of any characteristic protected by applicable laws in each country where we operate. This commitment includes, but is not limited to, ensuring equal treatment in recruitment, selection, training, promotion, transfer, compensation, and all other aspects of employment. Coalition does not tolerate discrimination or harassment of any kind, and we are dedicated to fostering an inclusive and supportive workplace.
+
+Accommodations
+
+Coalition is committed to providing reasonable accommodations to qualified individuals with disabilities, including applicants and employees, in accordance with applicable laws and regulations in each country where we operate. Our policy is to support equal opportunity in the hiring process by considering qualified applicants regardless of disability or other protected characteristics, unless providing accommodation would impose an undue hardship or disproportionate burden. If you require accommodation to complete an application, interview, pre-employment testing, or participate in the selection process, please contact us at candidateaccommodations@coalitioninc.com. We also consider all qualified applicants, including those with criminal histories, in line with applicable laws and regulations in each jurisdiction.
+
+To all potential candidates: Coalition primarily does not use third-party recruiting services. Potential candidates will only be contacted by Coalition, Inc. during the recruitment process. You can always verify any opportunity on our official careers page http://www.coalitioninc.com/careers.
+
+To all recruitment agencies: Coalition does not accept unsolicited agency resumes. Do not forward resumes to our email alias, employees, or other physical or virtual organization locations. Coalition is not responsible for any fees related to unsolicited resumes.

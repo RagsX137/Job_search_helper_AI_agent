@@ -1,0 +1,11 @@
+requests 
+beautifulsoup4
+selenium
+crawl4ai 
+python-dotenv 
+google-genai
+PyYAML
+transformers # For HuggingFace
+torch # Backend for HuggingFace models (or tensorflow)
+ollama # Official Ollama Python client (alternative to requests)
+python-docx
