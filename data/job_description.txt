@@ -1,89 +1,125 @@
+ About the job
 
-About the job
+Work Location:
 
-About us
+Toronto, Ontario, Canada
 
-Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines broad insurance coverage with a digital risk assessment and continuous security monitoring to help organizations protect themselves in today’s hyper-connected world.
+Hours
 
-Opportunities to make an impact with bold thinking are real - and happening daily.
- About the role
+37.5
 
-We are looking for a Senior Machine Learning Scientist to join our team and help us build out our long term AI strategy. You will be integral in creating innovative machine learning models and refining existing ones to drive the future of our AI initiatives. You will be working closely with a team of ML scientists and engineers to design and implement cutting-edge solutions that address our unique business challenges. You'll have the opportunity to work on complex problems in a highly innovative environment, collaborate with cross-functional teams and contribute to the design, development, and deployment of robust and scalable AI solutions.. Your work will directly impact the growth and vision of Coalition, as you help us transform raw data into unique ML applications, pushing the boundaries of AI technology.
+Line Of Business
 
-Responsibilities
+Analytics, Insights, & Artificial Intelligence
 
+Pay Details
 
-    Drive and execute AI projects/products end-to-end: from ideation, analysis, prototyping, development, metrics, and monitoring.
+$76,800 - $115,200 CAD
 
-    Design and implement ML pipelines for data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation, enabling rapid experimentation and iteration.
+This role is eligible for a discretionary variable compensation award that considers business and individual performance.
 
-    Survey and incorporate recent advances in AI/ML research into our set of core capabilities to drive the future of decisioning at Coalition
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
 
-    Thoughtfully communicate your work and experience in applied machine learning through internal collaborations and mentorship opportunities.
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
 
-    Contribute and grow the culture of data excellence on our team by bringing mature empathy, best practices, and processes to our organization.
+Job Description
 
+As part of the AI Platform, our passion is to advance AI capabilities and deliver AI-powered solutions to optimize processes, maximize productivity, and increase value for our customers and colleagues. We are seeking a highly skilled and experienced Prompt Engineer to join our team and drive the development of cutting-edge AI capabilities and solutions on the Azure AI Platform. In this role, you will be at the forefront of designing, implementing, and maintaining prompts for AI models specifically tailored to support our ambitious AI initiatives. Your expertise will help shape the direction of our AI development practices and ensure that our AI solutions meet the highest standards of quality and performance.
 
-Skills and Qualifications
+Key Responsibilities
 
+Prompt Design and Development:
 
-    Ph.D. or MS degree in a quantitative or computational field 
+     Crafting effective prompts that elicit the desired responses from AI models.
+     Experimenting with different phrasing and structures to optimize model output.
+     Ensuring prompts are clear, concise, and contextually appropriate for the target audience or application.
 
-    7+ years of proven track record of technical full-time work experience leading work to develop and deploy machine learning and data-based solutions in production
+Data Analysis And Evaluation
 
-    Proficiency with NLP, particularly broad experience delivering end-to-end, high-quality LLM and RAG solutions with measurable impact
+     Analyzing model outputs to assess the effectiveness of different prompts.
+     Conducting A/B testing and other evaluation methods to compare prompt performance.
+     Identifying patterns and trends in AI responses to refine prompt strategies.
 
-    Practical and extensive experience in supervised and unsupervised machine learning methods
+User Interaction Design
 
-    Expertise in statistical analysis methods, most notably regression analysis, statistical inference, and forecasting
+     Designing prompts that enhance user experience in conversational interfaces.
+     Ensuring prompts align with user intents and expectations.
+     Collaborating with UX/UI designers to integrate prompts seamlessly into applications.
 
-    Proficiency in Python and object-oriented programming
+Model Fine-Tuning
 
-    Effective in ambiguous problem spaces; ability to own and drive projects with minimal oversight and process 
+     Collaborating with data scientists and machine learning engineers to fine-tune AI models based on prompt performance.
+     Adjusting prompts to improve model accuracy, relevance, and coherence.
+     Using feedback loops to iteratively improve prompts and model responses.
 
-    Exceptional written and oral communication with technical and non-technical audiences
+Documentation And Knowledge Sharing
 
-    Comfortable in fast-paced startup environment
+     Documenting best practices, guidelines, and methodologies for prompt engineering.
+     Sharing insights and findings with cross-functional teams to inform broader AI development efforts.
+     Contributing to internal knowledge bases and training materials.
 
+Ethical Considerations
 
-Perks
+     Ensuring prompts are designed to avoid bias, inappropriate content, and other ethical issues.
+     Staying informed about ethical guidelines and industry standards related to AI and prompt engineering.
+     Implementing measures to mitigate potential misuse or harmful effects of AI-generated content.
 
+Collaboration And Communication
 
-    100% medical, dental, and vision coverage
+     Working closely with product managers, developers, linguists, and other stakeholders to align prompt engineering efforts with project goals.
+     Communicating complex technical concepts to non-technical team members.
+     Participating in team meetings, brainstorming sessions, and collaborative projects.
 
-    Flexible PTO
+Continuous Learning And Improvement
 
-    Annual home office stipend and WeWork access
+     Keeping up to date with the latest advancements in AI, NLP, and prompt engineering techniques.
+     Attending workshops and training sessions to enhance skills and knowledge.
+     Experimenting with new tools and technologies to improve prompt engineering practices.
 
-    Mental & physical health wellness programs like Headspace, Lumino, and more!
+Education/Experience
 
-    Competitive compensation and opportunity for advancement
+     Bachelor's or Master's degree in computer science, Engineering, Data Science, or a related field.
+     2+ years' experience in designing, testing, and optimizing prompts to improve output quality, strengthen prompt security, model performance, and reduce cost.
+     Experience with RAG, various document processing & chunking.
+     Experience with programming languages such as Python, and familiarity with NLP libraries and frameworks, e.g. TensorFlow, PyTorch, SpaCy, HuggingFace Transformers, PromptFlow, LangChain, Semantic Kernel.
+     Experience with a myriad of LLM, i.e. GPT, LLama, Mistral, Gemini, Claude, Bloom, Phi.
+     Experience with vector databases and various ANN search algorithms.
+     Experience with integrating LLM into applications via APIs.
+     Experience with DevOps practice, version control, GitHub actions, Linux.
+     Excellent analytical and problem-solving skills, with a keen attention to detail.
+     Strong communication and collaboration skills to work effectively in a team environment.
+     Experience with cloud technologies, preferably Azure.
 
- 
-Why Coalition? 
+Who We Are
 
-We’re a remote-first, mission-driven team committed to building a more inclusive culture with people of all different backgrounds. We trust our team members to take responsibility, share ownership, and put in the work to help us in our pursuit to solve digital risk.
+TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we deliver legendary customer experiences to over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to the Bank, those we serve, and the economies we support. We are guided by our vision to Be the Better Bank and our purpose to enrich the lives of our customers, communities and colleagues.
 
-Coalition’s exceptional growth stems from its ability to address real-world problems for organizations of all sizes and remain true to our founding values of character, humility, responsibility, purpose, authenticity, and inclusion. 
+TD is deeply committed to being a leader in customer experience, that is why we believe that all colleagues, no matter where they work, are customer facing. As we build our business and deliver on our strategy, we are innovating to enhance the customer experience and build capabilities to shape the future of banking. Whether you’ve got years of banking experience or are just starting your career in financial services, we can help you realize your potential. Through regular leadership and development conversations to mentorship and training programs, we’re here to support you towards your goals. As an organization, we keep growing – and so will you.
 
-We’re always looking for collaborative, inquisitive individuals to join #OurCoalition.
+Our Total Rewards Package
 
-Visit our Newsroom > 
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
 
-Privacy Notice
+Additional Information
 
-Coalition is committed to protecting your privacy and handling your personal information responsibly. We collect, use, and store personal information as necessary for the recruitment process and in compliance with applicable privacy laws and regulations in all regions where we operate. We want you to understand what personal information we collect, how we use it, and your rights regarding access, correction, and deletion of your data where applicable. Information submitted, collected, and processed as part of your application is subject to Coalition's Privacy Policy. For further details, please review our full Privacy Policy or contact us with any questions regarding how your information is handled.
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
 
-Our Privacy Policy > 
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
 
-Anti-Discrimination Notice
+Colleague Development 
 
-Coalition is proud to be an Equal Opportunity employer. Our policy is to provide equal employment opportunities to all individuals, without discrimination or harassment on the basis of any characteristic protected by applicable laws in each country where we operate. This commitment includes, but is not limited to, ensuring equal treatment in recruitment, selection, training, promotion, transfer, compensation, and all other aspects of employment. Coalition does not tolerate discrimination or harassment of any kind, and we are dedicated to fostering an inclusive and supportive workplace.
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities. Whether you have a passion for helping customers and want to expand your experience, or you want to coach and inspire your colleagues, there are many different career paths within our organization at TD – and we’re committed to helping you identify opportunities that support your goals.
 
-Accommodations
+Training & Onboarding
 
-Coalition is committed to providing reasonable accommodations to qualified individuals with disabilities, including applicants and employees, in accordance with applicable laws and regulations in each country where we operate. Our policy is to support equal opportunity in the hiring process by considering qualified applicants regardless of disability or other protected characteristics, unless providing accommodation would impose an undue hardship or disproportionate burden. If you require accommodation to complete an application, interview, pre-employment testing, or participate in the selection process, please contact us at candidateaccommodations@coalitioninc.com. We also consider all qualified applicants, including those with criminal histories, in line with applicable laws and regulations in each jurisdiction.
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
 
-To all potential candidates: Coalition primarily does not use third-party recruiting services. Potential candidates will only be contacted by Coalition, Inc. during the recruitment process. You can always verify any opportunity on our official careers page http://www.coalitioninc.com/careers.
+Interview Process 
 
-To all recruitment agencies: Coalition does not accept unsolicited agency resumes. Do not forward resumes to our email alias, employees, or other physical or virtual organization locations. Coalition is not responsible for any fees related to unsolicited resumes.
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+Accommodation 
+
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+
+We look forward to hearing from you!

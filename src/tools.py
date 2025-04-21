@@ -12,6 +12,7 @@ os.environ["SERPER_API_KEY"] = config['SERPER_API_KEY']
 
 llm = LLM(model='gemini/gemini-2.5-pro-exp-03-25', api_key=config['GOOGLE_API_KEY'], verbose=True)
 # llm= LLM(model="ollama/deepseek-r1:7b", base_url="http://localhost:11434")
+analyzer_llm = LLM(model="ollama/deepseek-r1:7b", base_url="http://localhost:11434")
 
 def parse_resume_keywords(path: str) -> list:
     df = pd.read_csv(path)
@@ -95,5 +96,5 @@ keywords_matcher = Task(
     description=f"Review the list of keywords found in {read_file(jd_path)} and see which ones need to be added to {parse_resume_keywords(resume_keywords_path)}. Do not use any information outside of this source",
     expected_output="List of keywords and keyword phrases missing from the resume",
     output_file="keywords_matches.txt",
-    agent=keyword_finder,
+    agent=keyword_analyzer,
 )
